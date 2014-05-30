@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tristique augue id rutrum lobortis. Mauris dapibus elementum sapien, ut commodo arcu facilisis ut. Fusce in diam elit. Morbi non interdum felis, vitae sodales turpis. Duis eget turpis ac ligula sagittis varius. Maecenas neque libero, posuere condimentum iaculis vel, tempus sit amet ipsum. Cras aliquet dui sit amet turpis gravida congue. Maecenas eleifend pulvinar feugiat.
+	</string>
+    <string name="fibonacci_in_nature">Fibonacci in nature</string>
+
+</resources>
